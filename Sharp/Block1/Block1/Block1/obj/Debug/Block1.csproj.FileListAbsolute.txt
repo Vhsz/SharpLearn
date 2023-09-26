@@ -1,0 +1,7 @@
+C:\Users\p\Desktop\SharpLearn\SharpLearn\Sharp\Block1\Block1\Block1\bin\Debug\Block1.exe.config
+C:\Users\p\Desktop\SharpLearn\SharpLearn\Sharp\Block1\Block1\Block1\bin\Debug\Block1.exe
+C:\Users\p\Desktop\SharpLearn\SharpLearn\Sharp\Block1\Block1\Block1\bin\Debug\Block1.pdb
+C:\Users\p\Desktop\SharpLearn\SharpLearn\Sharp\Block1\Block1\Block1\obj\Debug\Block1.csproj.AssemblyReference.cache
+C:\Users\p\Desktop\SharpLearn\SharpLearn\Sharp\Block1\Block1\Block1\obj\Debug\Block1.csproj.CoreCompileInputs.cache
+C:\Users\p\Desktop\SharpLearn\SharpLearn\Sharp\Block1\Block1\Block1\obj\Debug\Block1.exe
+C:\Users\p\Desktop\SharpLearn\SharpLearn\Sharp\Block1\Block1\Block1\obj\Debug\Block1.pdb
